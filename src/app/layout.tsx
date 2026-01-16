@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   description: "The premier crypto livestreaming platform for token communities.",
   keywords: ["crypto", "livestream", "solana", "bags", "token", "streaming"],
   icons: {
-    icon: "/assets/logo2.svg",
+    icon: "/assets/bagslogo.svg",
   },
 };
 
