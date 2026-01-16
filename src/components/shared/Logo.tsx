@@ -32,7 +32,7 @@ export function Logo({ size = "md", showText = true }: LogoProps) {
         className={`${sizeClasses[size]} relative group-hover:scale-105 transition-all duration-300`}
       >
         <Image
-          src="/assets/logo.svg"
+          src="/assets/bagslogo.svg"
           alt={SITE_CONFIG.name}
           width={imageSizes[size]}
           height={imageSizes[size]}
